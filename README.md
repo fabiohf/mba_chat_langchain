@@ -23,7 +23,7 @@ Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 OPENAI_API_KEY=<sua-chave-openai>
 OPENAI_MODEL=text-embedding-3-small
 DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/rag
-PG_VECTOR_COLLECTION_NAME=docs
+PG_VECTOR_COLLECTION_NAME=gpt5_collection
 PDF_PATH=./document.pdf
 ```
 
