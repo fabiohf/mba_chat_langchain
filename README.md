@@ -11,7 +11,7 @@
 ### 2. Clone o repositório
 
 ```sh
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/fabiohf/mba_chat_langchain.git
 cd mba_ingestao_busca_langchain
 ```
 
