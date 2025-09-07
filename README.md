@@ -12,7 +12,7 @@
 
 ```sh
 git clone https://github.com/fabiohf/mba_chat_langchain.git
-cd mba_ingestao_busca_langchain
+cd mba_chat_langchain
 ```
 
 ### 3. Configure as variáveis de ambiente
